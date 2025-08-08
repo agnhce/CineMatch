@@ -51,6 +51,7 @@ This approach allows for fuzzy matching and typo tolerance while maintaining eff
 -**Screenshots**
 
 <img width="1913" height="973" alt="image" src="https://github.com/user-attachments/assets/80b649d6-733d-4788-a292-f116253e81bf" />
+<img width="1896" height="978" alt="image" src="https://github.com/user-attachments/assets/ced9be81-b308-49ef-afec-d2f72bc4c404" />
 
 
-Author:Avigayan Ghosh
+-**Author:** Avigayan Ghosh
