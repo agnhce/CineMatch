@@ -19,3 +19,23 @@ A modern Streamlit + MySQL powered application that matches incoming movies, TV 
 
 - **Web-Based Interface**  
   Built with Flask for interactive querying and result visualization.
+
+ 🏗 Architecture
+Incoming Data ➜ Preprocessing & Bigram Tokenization ➜ Similarity Scoring ➜ Match Decision ➜ Database Update
+
+## 🛠 Tech Stack
+
+| Category        | Technologies |
+|-----------------|--------------|
+| **Backend**     | Python 3.11 |
+| **Database**    | MySQL |
+| **Algorithm**   | Jaccard Similarity (Bigrams) |
+| **Deployment**  | Localhost |
+
+📐 Matching Algorithm
+Jaccard Similarity on Bigrams:
+Convert strings to lowercase.
+Break into character bigrams.
+Compute intersection and union sizes.
+Similarity = Intersection / Union.
+This approach allows for fuzzy matching and typo tolerance while maintaining efficiency.
