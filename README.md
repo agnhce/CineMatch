@@ -35,6 +35,7 @@ Incoming Data ➜ Preprocessing & Bigram Tokenization ➜ Similarity Scoring ➜
 📐 Matching Algorithm
 
 - **Jaccard Similarity on Bigrams:-**
+- 
 Convert strings to lowercase.
 
 Break into character bigrams.
@@ -44,3 +45,12 @@ Compute intersection and union sizes.
 Similarity = Intersection / Union.
 
 This approach allows for fuzzy matching and typo tolerance while maintaining efficiency.
+
+
+
+-**Screenshots**
+
+<img width="1913" height="973" alt="image" src="https://github.com/user-attachments/assets/80b649d6-733d-4788-a292-f116253e81bf" />
+
+
+Author:Avigayan Ghosh
