@@ -33,8 +33,8 @@ Incoming Data ➜ Preprocessing & Bigram Tokenization ➜ Similarity Scoring ➜
 | **Deployment**  | Localhost |
 
 📐 Matching Algorithm
-Jaccard Similarity on Bigrams:
 
+- **Jaccard Similarity on Bigrams:-**
 Convert strings to lowercase.
 
 Break into character bigrams.
